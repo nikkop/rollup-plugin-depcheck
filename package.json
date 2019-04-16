@@ -8,7 +8,7 @@
     "depcheck"
   ],
   "author": "Nikola Pantic",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "depcheck": "^0.7.2"
   },
